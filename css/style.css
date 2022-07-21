@@ -1,0 +1,78 @@
+body {
+    background-color: #FFF9CA;
+    font-family: 'Roboto Slab', serif;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+hr {
+    color: #FFDEB4;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    font-family: 'La Belle Aurore', cursive;
+    text-align: center;
+    color: #F37878;
+}
+
+h3 {
+    text-align: center;
+    color: #F37878;
+}
+
+p {
+    text-align: center;
+    color: #748DA6;
+}
+
+.careers-table {
+    margin-left: auto;
+    margin-right: auto;
+    color: #748DA6;
+}
+
+.repositories {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    color: #748DA6;
+}
+
+.skill-table {
+    margin-left: auto;
+    margin-right: auto;
+    color: #748DA6;
+}
+
+.my-hobby {
+    display:table;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    color: #748DA6;
+}
+
+.contact-link {
+    display: block;
+}
+
+.contact-icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+
+.image-container{
+    display : flex;
+    justify-content : center;
+}
